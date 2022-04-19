@@ -1,1 +1,1 @@
-{"base": "c815d0e", "parent": "debian/rolling/zenoh_bridge_dds", "previous": "bbd8426", "trim": "", "trimbase": ""}
+{"base": "6c11421", "parent": "debian/humble/zenoh_bridge_dds", "previous": "e612593", "trim": "", "trimbase": ""}
